@@ -1,6 +1,6 @@
 ## Balancing Spread Direction Performance & Backtesting Analysis
 
-The balancing direction model's robustness was evaluated using an out-of-sample backtest initiated on **01/07/2025** across **25,536 Market Time Units (MTUs)**. The objective is predicting the imbalance spread sign ($\text{Spread} = \text{OTA} - \text{OTS}$), identifying whether the system is short ($\text{OTA} > \text{OTS}$) or long ($\text{OTA} \le \text{OTS}$).
+The balancing direction model's robustness was evaluated using an out-of-sample backtest initiated on **01/07/2025** across **25,536 Market Time Units (MTUs)**.
 
 ### Overall Out-of-Sample Metrics
 
